@@ -1,6 +1,6 @@
 # FlexBox Blog - Full Stack Blogging Platform
 
-A comprehensive blogging platform built using .NET Core 8 and Angular 16, demonstrating clean architecture, modern development practices, and responsive design.
+A comprehensive blogging platform built using .NET Core 8 and Angular 18, demonstrating clean architecture, modern development practices, and responsive design.
 
 ## Architecture Overview
 
